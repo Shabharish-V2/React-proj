@@ -18,5 +18,5 @@ const MovieCard = ({ movie: { imdbID, Year, Poster, Title, Type } }) => {
     </div>
   );
 }
-// chj
+// chjgn
 export default MovieCard;
